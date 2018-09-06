@@ -1,0 +1,13 @@
+Package: fastpca
+Type: Package
+Title: Fast PCA
+Version: 0.1.0
+Author: Davide Risso
+Maintainer: Davide Risso <risso.davide@gmail.com>
+Description: This is a faster version of PCA.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: rARPACK
+RoxygenNote: 6.0.1
+Suggests: testthat
